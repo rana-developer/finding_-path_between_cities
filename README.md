@@ -1,6 +1,6 @@
 ## _FINDING PATH BETWEEN CITIES_
-### Problem Statement : 
-Create a spring boot application that determines if two cities are connected or not. Two cities are considered connected if there’s a series of roads that can be travelled from one city to another.
+###Project Definition : 
+Created a spring boot application that determines if two cities are connected or not. Two cities are considered connected if there’s a series of roads that can be travelled from one city to another.
 ##### Given - 
 The comma-separated file i.e "city.txt" containing the list of connected cities.
 
